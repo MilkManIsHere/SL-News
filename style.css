@@ -1,0 +1,21 @@
+body {
+	background-color: red;
+	text-align: center;
+}
+
+iframe {
+	border: none;
+}
+
+.news {
+	background-color: grey;
+	border: 2px solid black;
+	color: white;
+	margin: auto;
+	text-align: left;
+	width: 50%;
+}
+
+.news-header {
+	text-align: center;
+}
